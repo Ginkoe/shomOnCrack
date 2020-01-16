@@ -10,6 +10,9 @@
   "author": "Ginkoe",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.1",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.18",
     "inquirer": "^7.0.3",
     "puppeteer": "^2.0.0"
   },
